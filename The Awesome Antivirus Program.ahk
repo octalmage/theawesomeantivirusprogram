@@ -82,7 +82,7 @@ return
 
 
 About:
-MsgBox , , About, The Awesome Antivirus Program v0.1`nBy: Jason Stallings`nhttp://code.google.com/p/theawesomeantivirusprogram/
+MsgBox , , About, The Awesome Antivirus Program v0.2.0`nBy: Jason Stallings`nhttps://github.com/octalmage/theawesomeantivirusprogram/
 return
 
 Settings:
