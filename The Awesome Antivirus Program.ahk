@@ -1,4 +1,6 @@
 #persistent
+#singleinstance force
+
 Gui 99: +LastFound 
 hWnd := WinExist() 
 DllCall( "RegisterShellHookWindow", UInt,hWnd ) 
